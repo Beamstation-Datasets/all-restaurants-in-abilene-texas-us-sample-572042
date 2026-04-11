@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Abilene, Texas with a population of over 125k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Abilene, Texas, US",
+  "export_job_id": "86506245-5d90-4176-a5b9-426f7a84db82",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 572042,
+  "location_name": "Abilene",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-abilene-texas-us-sample-572042",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/572042/beamstation_572042_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 25,
+  "sample_sha256": "92105c8732e392e259d77e1126e14357b31765017ea49aaf8cfde592d33c148a",
+  "sample_size_bytes": 107040,
+  "total_records": 251,
+  "updated_at": "2026-04-07T11:09:15.053381+00:00"
+}

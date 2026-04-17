@@ -9,9 +9,9 @@
 | Dataset ID | `572042` |
 | Location | Abilene |
 | Category | Restaurants |
-| Full dataset size | 251 records |
-| Free sample size | 25 records (9.96%) |
-| Last export | 2026-04-07T11:09:15.053381+00:00 |
+| Full dataset size | 258 records |
+| Free sample size | 25 records (9.69%) |
+| Last export | 2026-04-14T11:04:30.858603+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-abilene-texas-us-sample-572042/releases/download/sample-latest/beamstation_572042_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample

@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Abilene, Texas with a population of over 125k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Abilene, Texas, US",
-  "export_job_id": "2938e8dd-cf6c-4986-bd44-d9a2491d24e2",
+  "export_job_id": "75831a30-2647-40b2-b1dd-6364960b2302",
   "github_org": "Beamstation-Datasets",
   "id_short": 572042,
   "location_name": "Abilene",
   "location_type": "city",
   "repo_name": "all-restaurants-in-abilene-texas-us-sample-572042",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/572042/beamstation_572042_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.69,
+  "sample_pct": 10.0,
   "sample_records": 25,
-  "sample_sha256": "9a740d2e5522e0b83261023e81569c7019c506deada036390017d9133dcc841c",
-  "sample_size_bytes": 64900,
-  "total_records": 258,
-  "updated_at": "2026-04-14T11:04:30.858603+00:00"
+  "sample_sha256": "97fa783c5f35ece8ec7957ad13b4eefae2f06adc224eda8e88a593eddb89ecc6",
+  "sample_size_bytes": 78919,
+  "total_records": 250,
+  "updated_at": "2026-04-21T11:25:55.839114+00:00"
 }

@@ -1,12 +1,12 @@
 {
-  "export_job_id": "75831a30-2647-40b2-b1dd-6364960b2302",
+  "export_job_id": "248e931e-55e4-446c-b07f-47767b1680da",
   "id_short": 572042,
-  "published_at": "2026-04-21T19:34:15Z",
+  "published_at": "2026-04-28T19:44:46Z",
   "repo_name": "all-restaurants-in-abilene-texas-us-sample-572042",
   "sample_asset_name": "beamstation_572042_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/572042/beamstation_572042_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "97fa783c5f35ece8ec7957ad13b4eefae2f06adc224eda8e88a593eddb89ecc6",
-  "sample_size_bytes": 78919,
-  "total_records": 250
+  "sample_records": 23,
+  "sample_sha256": "c0d60a7dcba6156571f10f979ef4bb1a4298211e4060676eced6b8f293eb6ad7",
+  "sample_size_bytes": 95614,
+  "total_records": 230
 }

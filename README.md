@@ -1,6 +1,6 @@
 # All Restaurants in Abilene, Texas, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `572042` |
 | Location | Abilene |
 | Category | Restaurants |
-| Full dataset size | 230 records |
-| Free sample size | 23 records (10.0%) |
-| Last export | 2026-04-28T12:06:02.939061+00:00 |
+| Full dataset size | 319 records |
+| Free sample size | 31 records (9.72%) |
+| Last export | 2026-05-05T17:45:21.222013+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-abilene-texas-us-sample-572042/releases/download/sample-latest/beamstation_572042_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
